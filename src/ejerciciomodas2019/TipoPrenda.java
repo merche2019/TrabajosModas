@@ -7,15 +7,8 @@ package ejerciciomodas2019;
 
 /**
  *
- * @author Administrador
+ * @author Tarod
  */
-public class EjercicioModas2019 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+public enum TipoPrenda {
+    SPORT, GALA, CLASICA, ROCKERA, MODERNA;
 }
