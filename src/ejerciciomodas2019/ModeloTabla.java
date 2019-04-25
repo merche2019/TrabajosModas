@@ -12,7 +12,7 @@ import javax.swing.table.TableModel;
 
 /**
  *
- * @author Alex
+ * @author AlexS
  */
 public class ModeloTabla extends DefaultTableModel{
     private Prenda[] lasPrendas;
